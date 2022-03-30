@@ -1,9 +1,9 @@
 ---
-title: Cosa è
+title: Cosa è la cittadinanza digitale
 hide: toc
 ---
 
-# Cosa è
+# Cosa è la cittadinanza digitale
 
 Si tratta di diritti digitali che, grazie al supporto di una serie di strumenti e processi (ad esempio l'identità digitale, la posta elettronica certificata e il domicilio digitale, le firme elettroniche, i pagamenti informatici), contribuiscono a facilitare a cittadini e imprese la fruizione dei servizi della Pubblica Amministrazione.<br>Conoscere tali strumenti e le norme che ne regolano l'uso, consente inoltre di semplificare il rapporto tra cittadini, imprese e Pubblica Amministrazione.
 
