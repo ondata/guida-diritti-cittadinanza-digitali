@@ -12,10 +12,10 @@ copyright: '<a href="https://twitter.com/ondatait" target="_blank">associazione 
 theme:
   name: material
   icon:
-    logo: material/table
+    logo: material/book-open
   highlightjs: true
   custom_dir: overrides
-  favicon: imgs/favicon.ico
+#  favicon: imgs/favicon.ico
   palette:
     - scheme: preference
       primary: deep purple

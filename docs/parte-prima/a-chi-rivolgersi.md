@@ -5,9 +5,7 @@ hide: toc
 
 # A chi rivolgersi per la tutela dei diritti di cittadinanza digitali
 
-Per tutelare tali diritti, oltre al Giudice, è possibile rivolgersi anche al Difensore civico per il
-digitale.
-Questa figura svolge la funzione di:
+Per tutelare tali diritti, oltre al Giudice, è possibile rivolgersi anche al [Difensore civico per il digitale](../parte-seconda/tutela-dei-diritti.md). Questa figura svolge la funzione di:
 
 - valutare[^1] le segnalazioni relative a presunte violazioni dei diritti di cittadinanza digitale e,
     qualora le ritenga non manifestamente infondate le trasmette al Direttore Generale per
