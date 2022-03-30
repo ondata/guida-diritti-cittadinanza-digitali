@@ -13,7 +13,7 @@ Il **15 marzo 2022** è [stata pubblicata](https://www.agid.gov.it/it/agenzia/st
 
 Come è riportato sul sito di AgID, i diritti di cittadinanza digitali risultano concreti quando chiunque può:
 
-- **accedere** ai **servizi online** in maniera **semplice**, **sicura** e veloce (diritto all’uso delle tecnologie, Identità digitale, accessibilità di siti web e applicazioni mobili);
+- **accedere** ai **servizi online** in maniera **semplice**, **sicura** e veloce (diritto all'uso delle tecnologie, Identità digitale, accessibilità di siti web e applicazioni mobili);
 - **acquisire rapidamente informazioni affidabili** e/o esprimere chiaramente la propria esigenza, instaurando una **comunicazione rapida** e con **pieno valore giuridico con la pubblica amministrazione** alla quale ci si rivolge per un procedimento o un servizio (istanze telematiche, comunicazioni elettroniche, domicilio digitale);
 - **beneficiare** di **modalità di pagamento digitali** che assicurino maggiore trasparenza e sicurezza (pagamenti con modalità informatiche).
 

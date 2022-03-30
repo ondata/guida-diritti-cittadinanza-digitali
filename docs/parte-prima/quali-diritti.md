@@ -7,7 +7,7 @@ hide: toc
 
 I diritti di cittadinanza digitali risultano concreti quando chiunque può:
 
-- accedere ai servizi online in maniera semplice, sicura e veloce (diritto all’uso delle
+- accedere ai servizi online in maniera semplice, sicura e veloce (diritto all'uso delle
     tecnologie, Identità digitale, accessibilità di siti web e applicazioni mobili);
 - acquisire rapidamente informazioni affidabili e/o esprimere chiaramente la propria esigenza,
     instaurando una comunicazione rapida e con pieno valore giuridico con la pubblica
@@ -16,15 +16,15 @@ I diritti di cittadinanza digitali risultano concreti quando chiunque può:
 - beneficiare di modalità di pagamento digitali che assicurino maggiore trasparenza e
     sicurezza (pagamenti con modalità informatiche).
 
-## Diritto all’uso delle tecnologie
+## Diritto all'uso delle tecnologie
 
 Chiunque ha il diritto di usare in modo accessibile ed efficace le tecnologie nei rapporti e nelle
 comunicazioni con le pubbliche amministrazioni, con i gestori di pubblici servizi e le società a
-controllo pubblico, ad esempio come l’invio e l’accesso ai documenti informatici o ai servizi
-tramite l’identità digitale (SPID, CIE, CNS) o il poter effettuare i pagamenti online verso le
+controllo pubblico, ad esempio come l'invio e l'accesso ai documenti informatici o ai servizi
+tramite l'identità digitale (SPID, CIE, CNS) o il poter effettuare i pagamenti online verso le
 amministrazioni.
 
-## Diritto all’accessibilità
+## Diritto all'accessibilità
 
 È il diritto delle persone, in particolare quelle con disabilità, di accedere a tutte le fonti di
 informazione e ai relativi servizi in rete e di pubblica utilità nel settore privato e pubblico
@@ -32,7 +32,7 @@ attraverso le tecnologie assistive o configurazioni particolari (ad es. accedere
 pubblicati in formato accessibile, usare siti e applicazioni mobili organizzati in una struttura
 informativa di facile consultazione, ecc.).
 
-## Diritto all’identità digitale
+## Diritto all'identità digitale
 
 Chiunque ha il diritto di accedere ai servizi online offerti dalle pubbliche amministrazioni, da
 gestori di servizi pubblici e da società a controllo pubblico tramite la propria identità digitale (SPID,
