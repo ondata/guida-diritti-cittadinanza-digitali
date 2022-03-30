@@ -1,10 +1,10 @@
 site_name: Guida dei diritti di cittadinanza digitali
-site_url:  https://ondata.github.io/guidaPraticaPubblicazioneCSV/
-site_description: Guida pratica per la pubblicazione di dati tabellari in formato CSV
+site_url:  https://ondata.github.io/guida-diritti-cittadinanza-digitali/
+site_description: Guida pratica per la pubblicazione di dati guida-diritti-cittadinanza-digitaliin formato CSV
 
 
-repo_url: https://github.com/ondata/guidaPraticaPubblicazioneCSV
-repo_name: guidaPubblicazioneCSV
+repo_url: https://github.com/ondata/guida-diritti-cittadinanza-digitali
+repo_name: guida-diritti-digitali
 edit_uri: edit/main/docs/
 
 copyright: '<a href="https://twitter.com/ondatait" target="_blank">associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
