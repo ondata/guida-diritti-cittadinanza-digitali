@@ -20,7 +20,7 @@ Invece in base alla disciplina specifica in materia di accessibilità, è possib
 
 [^1]: [Legge 4/2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=2021-05-27) "Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici"
 [^2]: [Art. 9, comma 1-bis, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig=2020-11-04~art9).
-[^3]: [Art. 3-quater, co. 2 lett. c, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig=2020-11-04~art3).
+[^3]: [Art. 3-quater, co. 2 lett. c, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig=2020-11-04~art3quater).
 
 
 ## Casi pratici
