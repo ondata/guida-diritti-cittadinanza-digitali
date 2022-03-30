@@ -17,9 +17,9 @@ theme:
   custom_dir: overrides
 #  favicon: imgs/favicon.ico
   palette:
-    - scheme: preference
-      primary: deep purple
-      accent: orange
+    - scheme: default
+#      primary: deep purple
+#      accent: orange
 #      toggle:
 #        icon: material/weather-night
 #        name: Modalità notte
