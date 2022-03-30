@@ -1,0 +1,125 @@
+site_name: Guida dei diritti di cittadinanza digitali
+site_url:  https://ondata.github.io/guidaPraticaPubblicazioneCSV/
+site_description: Guida pratica per la pubblicazione di dati tabellari in formato CSV
+
+
+repo_url: https://github.com/ondata/guidaPraticaPubblicazioneCSV
+repo_name: guidaPubblicazioneCSV
+edit_uri: edit/main/docs/
+
+copyright: '<a href="https://twitter.com/ondatait" target="_blank">associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+
+theme:
+  name: material
+  icon:
+    logo: material/table
+  highlightjs: true
+  custom_dir: overrides
+  favicon: imgs/favicon.ico
+  palette:
+    - scheme: preference
+      primary: deep purple
+      accent: orange
+#      toggle:
+#        icon: material/weather-night
+#        name: Modalità notte
+#    - scheme: slate
+#      primary: deep purple
+#      accent: orange
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Modalità giorno
+  language: it
+  features:
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+  font:
+    text: Montserrat
+    #code: Cutive Mono
+    code: Fira Code
+
+
+nav:
+    - Home: index.md
+    - Guida:
+      - presentazione.md
+      - Parte I – La cittadinanza digitale:
+        - Cosa è: parte-prima/cosa.md
+        - I vantaggi: parte-prima/vantaggi.md
+        - Quali diritti: parte-prima/quali-diritti.md
+        - A chi rivolgersi per la tutela dei diritti di cittadinanza digitali : parte-prima/a-chi-rivolgersi.md
+      - Parte II – I diritti e la tutela:
+        - parte-seconda/index.md
+        - Uso delle tecnologie: parte-seconda/uso-delle-tecnologie.md
+        - Accessibilità: parte-seconda/accessibilita.md
+        - Identità digitale: parte-seconda/identita-digitale.md
+        - Domicilio digitale e comunicazioni elettroniche: parte-seconda/domicilio-digitale-e-comunicazioni-elettroniche.md
+        - Pagamenti con modalità informatiche: parte-seconda/pagamenti-con-modalita-informatiche.md
+        - Tutela dei diritti, il Difensore civico per il digitale: parte-seconda/tutela-dei-diritti.md
+        - Attori della governance del digitale: parte-seconda/attori-della-governance-del-digitale.md
+      - Appendice: appendice.md
+
+
+extra:
+ social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ondatait
+      name: onData su Twitter
+
+# foglio di stile personalizzato
+extra_css:
+  - stylesheets/style.css
+
+plugins:
+  - search:
+      lang: it
+  - mkdocstrings
+  - tags
+
+extra_javascript:
+#  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+#  - javascripts/tables.js
+  - javascripts/varie.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+markdown_extensions:
+- admonition
+- md_in_html
+- attr_list
+- footnotes
+- meta
+- mkdocs-click
+- pymdownx.keys
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.critic:
+      mode: view
+- pymdownx.details
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+- pymdownx.highlight
+- pymdownx.mark
+- pymdownx.smartsymbols
+- pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.tabbed
+- pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+- pymdownx.tilde
+- toc:
+      permalink: true
+      toc_depth: 3
+
