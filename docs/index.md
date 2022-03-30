@@ -21,4 +21,6 @@ Sono diritti fondamentali, che come associazione chiediamo spesso di fare valere
 
 Il documento è pubblicato ad oggi [**soltanto come PDF**](https://www.agid.gov.it/sites/default/files/repository_files/guida_riepilogo_diritti_cittadinanza_digitale_03-2022-acc.pdf), e questo ne **limita** l'**efficacia** nella **diffusione** e **condivisione**.
 
-Per questo ne abbiamo creato una copia web, suddivisa in sezioni.
+💡Per questo ne abbiamo creato [**una copia web**](presentazione.md).
+
+[Leggi :fontawesome-brands-readme:](presentazione.md){ .md-button .md-button--primary }
