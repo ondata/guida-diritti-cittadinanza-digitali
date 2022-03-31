@@ -29,6 +29,6 @@ diritti: il Difensore civico per il digitale).
 
 
 
-[^1]: art. 3 CAD <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2021-05-27~art3>
-[^2]: art. 2. comma 3, CAD <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2021-05-27~art2>
+[^1]: [art. 3 CAD](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2021-05-27~art3)
+[^2]: [art. 2. comma 3, CAD](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2021-05-27~art2)
 [^3]: Sull'argomento si rinvia al documento reperibile a [questo indirizzo](https://www.agid.gov.it/sites/default/files/repository_files/tipologie_di_firme_e_sigilli_elettronici_v1_dicembre_2019.pdf). Inoltre con la Carta d'Identità Elettronica (CIE) e dispositivi dotati di interfaccia NFC come si può firmare con firma elettronica avanzata (FEA) attraverso l'app sviluppata dal Poligrafico e Zecca dello Stato Italiano CieSign.
