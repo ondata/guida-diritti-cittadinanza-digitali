@@ -1,5 +1,6 @@
 ---
 title: Presentazione
+hide: toc
 ---
 
 # Presentazione
