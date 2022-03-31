@@ -7,19 +7,11 @@ hide: toc
 
 ## In cosa consiste
 
-È il diritto di chiunque di usare in modo accessibile ed efficace le tecnologie nei rapporti con le
-pubbliche amministrazioni, con i gestori di pubblici servizi e le società a controllo pubblico, ad
-esempio, accedendo ai servizi tramite l'identità digitale o effettuando i pagamenti nei confronti
-delle pubbliche amministrazioni in modalità telematica. Anche i privati[^2] devono garantire il diritto
-all'uso delle tecnologie relativamente al documento informatico, alle firme elettroniche[^3] , ai servizi
-fiduciari per le transazioni elettroniche nel mercato interno, alla riproduzione e conservazione dei
-documenti, al domicilio digitale, alle comunicazioni elettroniche, all'identità digitale.
+È il diritto di chiunque di usare in modo accessibile ed efficace le tecnologie nei rapporti con le pubbliche amministrazioni, con i gestori di pubblici servizi e le società a controllo pubblico, ad esempio, accedendo ai servizi tramite l'identità digitale o effettuando i pagamenti nei confronti delle pubbliche amministrazioni in modalità telematica. Anche i privati[^2] devono garantire il diritto all'uso delle tecnologie relativamente al documento informatico, alle firme elettroniche[^3] , ai servizi fiduciari per le transazioni elettroniche nel mercato interno, alla riproduzione e conservazione dei documenti, al domicilio digitale, alle comunicazioni elettroniche, all'identità digitale.
 
 ## Come può essere tutelato questo diritto
 
-Tramite le ordinarie modalità di tutela amministrativa e giudiziaria. Seppure non sostitutiva delle
-precedenti modalità di tutela è possibile anche inviare una segnalazione al Difensore civico per il digitale per problematiche attinenti al diritto all'uso delle tecnologie ( vedi paragrafo 11 tutela dei
-diritti: il Difensore civico per il digitale).
+Tramite le ordinarie modalità di tutela amministrativa e giudiziaria. Seppure non sostitutiva delle precedenti modalità di tutela è possibile anche inviare una segnalazione al Difensore civico per il digitale per problematiche attinenti al diritto all'uso delle tecnologie (vedi paragrafo ["Tutela dei diritti: il Difensore civico per il digitale"](tutela-dei-diritti.md)).
 
 ## Casi pratici
 
