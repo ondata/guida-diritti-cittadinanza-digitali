@@ -2,6 +2,13 @@
 title: Presentazione
 ---
 
+# Presentazione
+
+!!! info "Note sul documento originale"
+
+    La redazione della "Guida dei diritti di cittadinanza digitali", di cui abbiamo creato qui la versione HTML, è stata curata dall'[Agenzia per l'Italia digitale](https://www.agid.gov.it/) - Ufficio del Difensore civico per il digitale (Massimo Macchia, Viviana De Paola, Raffaele Montanaro, Simone Rovelli, Maria Antonietta Ventriglia).
+
+
 _Cosa vuol dire essere **cittadini digitali**? Come ottenere l'**identità digitale**? Come **interagire** telematicamente con la **Pubblica Amministrazione**?_
 
 Accesso alle tecnologie, identità digitale, diritto di prendere visione e di estrarre copia di dati,
