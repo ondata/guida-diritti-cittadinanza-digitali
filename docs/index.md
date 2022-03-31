@@ -19,8 +19,6 @@ Come è riportato sul sito di AgID, i diritti di cittadinanza digitali risultano
 
 Sono diritti fondamentali, che come associazione chiediamo spesso di fare valere e su cui pensiamo che ancora sia sappia troppo poco. E una cittadinanza che non conosce tutti i propri diretti è più debole, ha meno opportunità.
 
-Il documento è pubblicato ad oggi [**soltanto come PDF**](https://www.agid.gov.it/sites/default/files/repository_files/guida_riepilogo_diritti_cittadinanza_digitale_03-2022-acc.pdf), e questo ne **limita** l'**efficacia** nella **diffusione** e **condivisione**.
-
-💡Per questo ne abbiamo creato [**una copia web**](presentazione.md).
+💡Il documento è pubblicato ad oggi [**soltanto come PDF**](https://www.agid.gov.it/sites/default/files/repository_files/guida_riepilogo_diritti_cittadinanza_digitale_03-2022-acc.pdf): per **diffonderlo** e **condividerlo** in modo più **ampio** ed **efficace**, ne abbiamo creato [una **versione HTML**](presentazione.md), **consultabile** e **condivisibile** da **qualsiasi terminale**.
 
 [Leggi :fontawesome-brands-readme:](presentazione.md){ .md-button .md-button--primary }
