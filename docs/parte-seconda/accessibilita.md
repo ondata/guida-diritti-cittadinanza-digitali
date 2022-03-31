@@ -25,6 +25,6 @@ Invece in base alla disciplina specifica in materia di accessibilità, è possib
 
 ## Casi pratici
 
-- [Invito 1/2018](https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf) ( mancato rispetto requisiti accessibilità di documenti pubblicati).
+- [Invito 1/2018](https://www.agid.gov.it/sites/default/files/repository_files/invito_n.1-2018_comune_palermo.0009364.10-05-2018.pdf) (mancato rispetto requisiti accessibilità di documenti pubblicati);
 - [Invito 20/2020](http://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0013124-allegato-_invito20-2020_segn72-2020.pdf) (mancato rispetto requisiti accessibilità di siti web);
 - [Invito 27/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014894-allegato-segnalazione_92_2020_invito27-2020.pdf) (mancato rispetto requisiti accessibilità di siti web).
