@@ -23,9 +23,9 @@ diritti: il Difensore civico per il digitale).
 
 ## Casi pratici
 
-- Invito 8/2020 <https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0006026-allegato-segn_122-2019_inviton8-2020_maeci.pdf>
-- Invito 26/2020 <https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014892-allegato-segnalazione_80_2020_invito26-2020.pdf>
-- Invito 28/2020 <https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014897-allegato-segnalazione_107_2020_invito28-2020.pdf>
+- [Invito 8/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0006026-allegato-segn_122-2019_inviton8-2020_maeci.pdf)
+- [Invito 26/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014892-allegato-segnalazione_80_2020_invito26-2020.pdf)
+- [Invito 28/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014897-allegato-segnalazione_107_2020_invito28-2020.pdf)
 
 
 
