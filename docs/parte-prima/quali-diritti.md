@@ -21,8 +21,7 @@ I diritti di cittadinanza digitali risultano concreti quando chiunque può:
 Chiunque ha il diritto di usare in modo accessibile ed efficace le tecnologie nei rapporti e nelle
 comunicazioni con le pubbliche amministrazioni, con i gestori di pubblici servizi e le società a
 controllo pubblico, ad esempio come l'invio e l'accesso ai documenti informatici o ai servizi
-tramite l'identità digitale (SPID, CIE, CNS) o il poter effettuare i pagamenti online verso le
-amministrazioni.
+tramite l'[identità digitale](../parte-seconda/identita-digitale.md) (SPID, CIE, CNS) o il [poter effettuare i pagamenti](../parte-seconda/pagamenti-con-modalita-informatiche.md) online verso le amministrazioni.
 
 ## Diritto all'accessibilità
 

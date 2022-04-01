@@ -9,7 +9,7 @@ Le pubbliche amministrazioni hanno avviato, attraverso l'adozione delle tecnolog
 
 Per raggiungere tale obiettivo l'Italia si è dotata anche di una [strategia globale per le competenze digitali](https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/), base essenziale per l'attuazione di interventi organici, multisettoriali ed efficaci su un'area fondamentale per lo sviluppo economico e sociale del Paese. Difatti le competenze digitali rappresentano una priorità strategica.
 
-Il principale strumento tramite il quale la Pubblica Amministrazione procede in questo percorso di digitalizzazione è il Codice dell'Amministrazione Digitale – CAD (Decreto Legislativo 7 marzo 2005, n. 82) che, fra l'altro, contiene anche i diritti di cittadinanza digitale (Capo I, Sezione II, artt. 3-9).
+Il principale strumento tramite il quale la Pubblica Amministrazione procede in questo percorso di digitalizzazione è il Codice dell'Amministrazione Digitale – CAD ([Decreto Legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig)) che, fra l'altro, contiene anche i diritti di cittadinanza digitale (Capo I, Sezione II, artt. 3-9).
 
 Essere cittadini digitali significa avere:
 
