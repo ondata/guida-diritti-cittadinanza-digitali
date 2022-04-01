@@ -74,6 +74,6 @@ Inviando una segnalazione al Difensore civico per il digitale per problematiche 
 
 ## Casi pratici
 
-- [Invito 25/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014867-allegato-segnalazione_77_2020_invito25-2020.pdf)
-- [Invito 403/2021](https://www.agid.gov.it/sites/default/files/repository_files/adg-2021-0007930-allegato-segnalazione_773_2021_invito403-2021.pdf)
-- [Invito 524/2021](https://www.agid.gov.it/sites/default/files/repository_files/adg-2021-0008816-allegato-segnalazione_6_2021_invito524-2021.pdf)
+- [Invito 25/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0014867-allegato-segnalazione_77_2020_invito25-2020.pdf);
+- [Invito 403/2021](https://www.agid.gov.it/sites/default/files/repository_files/adg-2021-0007930-allegato-segnalazione_773_2021_invito403-2021.pdf);
+- [Invito 524/2021](https://www.agid.gov.it/sites/default/files/repository_files/adg-2021-0008816-allegato-segnalazione_6_2021_invito524-2021.pdf).
