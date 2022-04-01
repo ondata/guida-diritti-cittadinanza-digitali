@@ -11,7 +11,7 @@ hide: toc
 
 ## Come può essere tutelato questo diritto
 
-Tramite le ordinarie modalità di tutela amministrativa e giudiziaria. Seppure non sostitutiva delle precedenti modalità di tutela è possibile anche inviare una segnalazione al Difensore civico per il digitale per problematiche attinenti al diritto all'uso delle tecnologie (vedi paragrafo ["Tutela dei diritti: il Difensore civico per il digitale"](tutela-dei-diritti.md)).
+Tramite le ordinarie modalità di tutela amministrativa e giudiziaria. Seppure non sostitutiva delle precedenti modalità di tutela è possibile anche inviare una segnalazione al Difensore civico per il digitale per problematiche attinenti al diritto all'uso delle tecnologie (vedi paragrafo "[Tutela dei diritti: il Difensore civico per il digitale](tutela-dei-diritti.md)").
 
 ## Casi pratici
 
