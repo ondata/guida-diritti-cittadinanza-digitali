@@ -1,6 +1,6 @@
 ---
 title: Identità digitale
-hide: toc
+#hide: toc
 ---
 
 # Identità digitale
