@@ -42,13 +42,14 @@ Tutte le informazioni utili sono reperibili sul sito <https://www.spid.gov.it/>.
 [^2]: <https://www.spid.gov.it/cos-e-spid/come-attivare-spid/> - <https://www.youtube.com/watch?v=3wGtFeTnMks>
 
 
-## SPID per uso professionale[^3]
+## SPID per uso professionale
 
-Tali identità digitali sono quelle utili a provare l'appartenenza di una persona fisica all'organizzazione di una persona giuridica e/o la sua qualità di professionista[^4]. È possibile ottenere a pagamento l'identità SPID per [uso professionale](https://www.agid.gov.it/it/piattaforme/spid).
+Tali identità digitali sono quelle utili a provare l'appartenenza di una persona fisica all'organizzazione di una persona giuridica e/o la sua qualità di professionista[^3]. È possibile ottenere a pagamento l'identità SPID per [uso professionale](https://www.agid.gov.it/it/piattaforme/spid).
 
-[^3]: <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_identita_digitale_per_uso_professionale_v.1.0_0.pdf>
+Per riferimenti "[Linee guida per il rilascio dell’identità digitale per uso professionale](https://www.agid.gov.it/sites/default/files/repository_files/linee_guida_identita_digitale_per_uso_professionale_v.1.0_0.pdf)".
 
-[^4]: Si precisa che tali identità non costituiscono prova dei poteri di rappresentanza di una persona giuridica dei quali una persona fisica è eventualmente in possesso né l’appartenenza di un professionista a un determinato ordine professionale o altro elenco qualificato.
+[^3]: Si precisa che tali identità non costituiscono prova dei poteri di rappresentanza di una persona giuridica dei quali una persona fisica è eventualmente in possesso né l’appartenenza di un professionista a un determinato ordine professionale o altro elenco qualificato.
+
 ## Carta d'Identità Elettronica
 
 La Carta d'Identità Elettronica (CIE) è uno dei documenti di riconoscimento personale italiani,
