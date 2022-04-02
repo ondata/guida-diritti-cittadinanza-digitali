@@ -1,5 +1,5 @@
 ---
-title: omicilio digitale e comunicazioni elettroniche
+title: Domicilio digitale e comunicazioni elettroniche
 #hide: toc
 ---
 
