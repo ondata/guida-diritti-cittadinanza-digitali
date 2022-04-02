@@ -66,9 +66,9 @@ Infatti, fermo restando quanto sopra, è previsto che chiunque:
 [^5]: [CAD, art. 3-bis, comma 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art3bis).
 
 
-Quando i soggetti che non sono obbligati ad eleggere il domicilio digitale volontariamente lo eleggono iscrivendosi nell'apposito Indice^31 , si produce l'effetto di "obbligare" le pubbliche amministrazioni, ad effettuare nei loro confronti le comunicazioni in modalità digitale.
+Quando i soggetti che non sono obbligati ad eleggere il domicilio digitale volontariamente lo eleggono iscrivendosi nell'apposito Indice[^6] , si produce l'effetto di "obbligare" le pubbliche amministrazioni, ad effettuare nei loro confronti le comunicazioni in modalità digitale.
 
-Per il domicilio digitale dei soggetti non tenuti all'iscrizione in albi professionali o nel registro delle imprese sono state pubblicate le linee guida^32 relative alle modalità di realizzazione e gestione operativa dell'INAD. Le Linee guida, realizzate da AgID in collaborazione con l'Ufficio legislativo del Ministro per l'innovazione e la transizione al digitale e con il supporto del Dipartimento per la trasformazione digitale, riguardano cittadini, professionisti e enti di diritto privato non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese (ad esempio tributaristi, amministratori di condominio, ecc.), e definiscono le regole e le funzionalità disponibili per l'elezione, la modifica e la cancellazione del domicilio digitale nell'elenco INAD.
+Per il domicilio digitale dei soggetti non tenuti all'iscrizione in albi professionali o nel registro delle imprese sono state pubblicate [le linee guida relative](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2021/09/20/domicilio-digitale-pubblicate-linee-guida) alle modalità di realizzazione e gestione operativa dell'INAD. Le Linee guida, realizzate da AgID in collaborazione con l'Ufficio legislativo del Ministro per l'innovazione e la transizione al digitale e con il supporto del Dipartimento per la trasformazione digitale, riguardano cittadini, professionisti e enti di diritto privato non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese (ad esempio tributaristi, amministratori di condominio, ecc.), e definiscono le regole e le funzionalità disponibili per l'elezione, la modifica e la cancellazione del domicilio digitale nell'elenco INAD.
 
 ## Anagrafe Nazionale della Popolazione Residente
 
@@ -76,9 +76,9 @@ L'Anagrafe Nazionale della Popolazione Residente (ANPR) è il progetto di anagra
 nazionale che raccoglie i dati e i servizi demografici degli italiani nella quale sono confluite le anagrafi comunali ed è istituita presso il Ministero dell'Interno. Oltre ad evitare duplicazioni nelle informazioni, grazie ad ANPR i cittadini possono verificare e modificare facilmente i propri dati demografici e fruire dei servizi anagrafici in un unico luogo, indipendentemente dal comune di residenza.
 
 Alla pagina <https://www.anagrafenazionale.interno.it/> si possono consultare e rettificare i dati
-anagrafici, richiedere certificati, e formulare richieste di rettifica e dal 1 febbraio 2022^33 è attivo il servizio per il cambio di residenza o dimora.
+anagrafici, richiedere certificati, e formulare richieste di rettifica e [dal 1 febbraio 2022](https://innovazione.gov.it/dipartimento/focus/servizi-digitali-anagrafe-nazionale/) è attivo il servizio per il cambio di residenza o dimora.
 
-Si possono scaricare i seguenti 14 certificati^34 per proprio conto o per un componente della
+Si possono scaricare i seguenti 14 [certificati](https://innovazione.gov.it/notizie/articoli/dal-15-novembre-certificati-anagrafici-online-e-gratuiti-per-i-cittadini/) per proprio conto o per un componente della
 propria famiglia, dal proprio computer senza bisogno di recarsi allo sportello:
 
 - Anagrafico di nascita
@@ -96,15 +96,7 @@ propria famiglia, dal proprio computer senza bisogno di recarsi allo sportello:
 - Anagrafico di Unione Civile
 - di Contratto di Convivenza
 
-31
-Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-quater. Linee guida dell'Indice nazionale dei domicili digitali
-delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione in albi, elenchi o
-registri professionali o nel registro delle imprese https://www.agid.gov.it/it/agenzia/stampa-e-
-comunicazione/notizie/2021/09/20/domicilio 32 -digitale-pubblicate-linee-guida
-https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2021/09/20/domicilio-digitale-pubblicate-
-linee 33 -guida
-34 https://innovazione.gov.it/dipartimento/focus/servizi-digitali-anagrafe-nazionale/^
-https://innovazione.gov.it/notizie/articoli/dal-15-novembre-certificati-anagrafici-online-e-gratuiti-per-i- cittadini/
+[^6]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art6quater). Linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese (<https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2021/09/20/domicilio-digitale-pubblicate-linee-guida>).
 
 Per i certificati digitali non si dovrà pagare il bollo e saranno quindi gratuiti (e disponibili in modalità multilingua per i comuni con plurilinguismo). Potranno essere rilasciati anche in forma contestuale (ad esempio cittadinanza, esistenza in vita e residenza potranno essere richiesti in un unico certificato).
 
