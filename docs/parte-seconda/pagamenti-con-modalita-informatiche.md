@@ -23,7 +23,7 @@ Tale sistema consente inoltre ai cittadini di eseguire, in favore delle amminist
 - Riduzione dei costi di transazione e processo.
 - Incasso delle somme D+1 (giorno lavorativo successivo al pagamento) direttamente sui conti di tesoreria.
 
-[^1]: [Art. 5 CAD](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art6bis!vig~art5).
+[^1]: [Art. 5 CAD](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art5).
 
 
 [^2]: La società è nata per effetto del [Decreto-Legge n. 135 del 14 dicembre del 2018](http://www.normattiva.it/eli/id/2018/12/14/18G00163/CONSOLIDATED/20200914), convertito in legge il 12 gennaio 2019, che prevede l'istituzione di "_una società per azioni interamente partecipata dallo Stato_" , vigilata dal Presidente del Consiglio dei Ministri o dal Ministro delegato.
