@@ -20,6 +20,6 @@ Come è riportato sul sito di AgID, i **diritti di cittadinanza digitali** risul
 Sono diritti fondamentali, che come associazione onData, chiediamo spesso di fare valere e su cui pensiamo che ancora sia sappia troppo poco: una cittadinanza che non conosce tutti i propri diritti è più debole e ha meno opportunità.
 
 💡
-Il documento è pubblicato, ad oggi, [**soltanto come PDF**](https://www.agid.gov.it/sites/default/files/repository_files/guida_riepilogo_diritti_cittadinanza_digitale_03-2022-acc.pdf): per **diffonderlo** e **condividerlo**, in modo più **ampio** ed **efficace**, ne abbiamo creato [una **versione HTML**](presentazione.md), **consultabile** e **condivisibile** da **qualsiasi terminale**.
+Il documento è pubblicato, ad oggi (3 aprile 2022), [**soltanto come PDF**](https://www.agid.gov.it/sites/default/files/repository_files/guida_riepilogo_diritti_cittadinanza_digitale_03-2022-acc.pdf): per **diffonderlo** e **condividerlo**, in modo più **ampio** ed **efficace**, ne abbiamo creato [una **versione HTML**](presentazione.md), **consultabile** e **condivisibile** da **qualsiasi terminale**.
 
 [Leggi :fontawesome-brands-readme:](presentazione.md){ .md-button .md-button--primary }
