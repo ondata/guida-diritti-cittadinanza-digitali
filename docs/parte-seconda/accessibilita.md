@@ -18,9 +18,9 @@ La legge 1° marzo 2006, n. 67[^2] stabilisce le regole per la tutela giudiziari
 
 Invece in base alla disciplina specifica in materia di accessibilità, è possibile trasmettere al Difensore civico per digitale un reclamo relativo ai siti web e alle applicazioni mobili che risultino non coerenti ai principi di accessibilità stabiliti dalla Legge 4/2004 e dalle linee guida AgID (vedi paragrafo [Tutela dei diritti: il Difensore civico per il digitale - percorso funzione B](tutela-dei-diritti.md#percorso-per-la-funzione-b)[^3]).
 
-[^1]: [Legge 4/2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig=2021-05-27) "Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici"
-[^2]: [Art. 9, comma 1-bis, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig=2020-11-04~art9).
-[^3]: [Art. 3-quater, co. 2 lett. c, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig=2020-11-04~art3quater).
+[^1]: [Legge 4/2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig) "Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici"
+[^2]: [Art. 9, comma 1-bis, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig~art9).
+[^3]: [Art. 3-quater, co. 2 lett. c, legge 9 gennaio 2004, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4%7Eart9!vig~art3quater).
 
 
 ## Casi pratici

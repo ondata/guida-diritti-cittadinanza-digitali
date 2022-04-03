@@ -30,10 +30,10 @@ base all'art. 65 del CAD non la ritenga valida[^4] , è possibile inviare una se
 - [Invito 2/2020](https://www.agid.gov.it/sites/default/files/repository_files/invito_2_2020_su_segn63_2018firm.pdf);
 - [Invito 6/2020](https://www.agid.gov.it/sites/default/files/repository_files/adg-2020-0006015-allegato-segn33-2020_inviton6-2020.pdf).
 
-[^1]: [art. 65 CAD](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art65)
+[^1]: [art. 65 CAD](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art65)
 
-[^2]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 64-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art64bis), funzione prevista dal CAD e al momento non attiva.
+[^2]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 64-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art64bis), funzione prevista dal CAD e al momento non attiva.
 
-[^3]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art.3-bis, comma 1-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art3bis).
+[^3]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art.3-bis, comma 1-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art3bis).
 
-[^4]: [Decreto Legislativo 7 marzo 2005, n.82, art. 65, comma 1-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art65).
+[^4]: [Decreto Legislativo 7 marzo 2005, n.82, art. 65, comma 1-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art65).

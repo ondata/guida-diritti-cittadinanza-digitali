@@ -9,7 +9,7 @@ title: Identità digitale
 
 Ogni cittadino può disporre di un'identità digitale[^1] unica, facile da usare, per identificarsi in maniera sicura e accedere a tutti i servizi digitali pubblici italiani (es: compilare la dichiarazione dei redditi, richiedere un permesso per il parcheggio sulle strisce blu, verificare la posizione contributiva, effettuare un pagamento per un tributo o una tassa, iscrivere i propri figli a scuola, ecc.).
 
-[^1]: [Art. 64 CAD](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art64)
+[^1]: [Art. 64 CAD](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art64)
 
 L'identità digitale consente anche l'accesso, attraverso il bottone login with eIDAS, ai servizi pubblici degli [stati membri](https://www.eid.gov.it/eidas-node-status) dell'Unione Europea e di imprese che l'hanno scelta come strumento di identificazione.
 Il [Sistema Pubblico di Identità Digitale (SPID)](https://www.spid.gov.it/) e la [Carta d'Identità Elettronica (CIE)](https://www.cartaidentita.interno.gov.it/), insieme alla Carta Nazionale dei Servizi (CNS) o Carta Regionale Servizi (CRS), sono gli strumenti di identificazione individuati dalla legge italiana (CAD) per accedere ai servizi online della Pubblica Amministrazione e ad alcuni servizi erogati dai privati aderenti.

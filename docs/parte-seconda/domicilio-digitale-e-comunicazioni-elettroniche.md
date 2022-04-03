@@ -16,7 +16,7 @@ In diritto il domicilio è il luogo ove una persona ha stabilito la sede princip
 
 Il CAD prevede che tutti gli utenti titolari di un domicilio digitale ne devono fare un uso diligente (es. verificando l'efficienza della propria casella di PEC, assicurando che il domicilio digitale sia attivo e vi sia sufficiente spazio a disposizione per il recapito); inoltre, gli utenti devono comunicare tempestivamente ogni modifica o variazione del proprio domicilio digitale.
 
-Vedi Artt. [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art6), [6 bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art6bis), [6 ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art6ter), [6 quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art6quater) e [48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig=2022-01-12~art48) del CAD e <https://bit.ly/3uMDY8k>.
+Vedi Artt. [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art6), [6 bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art6bis), [6 ter](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art6ter), [6 quater](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art6quater) e [48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art48) del CAD e <https://bit.ly/3uMDY8k>.
 
 ## Cos'è la PEC
 
@@ -59,11 +59,11 @@ Infatti, fermo restando quanto sopra, è previsto che chiunque:
 - ha il diritto di accedere ai servizi online offerti dalle pubbliche amministrazioni e gestori di servizi pubblici tramite la propria identità digitale[^4];
 - ha la facoltà di eleggere il proprio domicilio digitale[^5].
 
-[^1]: [CAD art. 3-bis. comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art3bis).
-[^2]: CAD [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art6bis).
-[^3]: [CAD Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art6ter). Inoltre, in materia di giustizia digitale, al fine di agevolare la notificazione alle pubbliche amministrazioni degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale è stata prevista la possibilità di utilizzare domicilio digitale indicato in IPA, qualora questo non sia stato indicato nel registro dedicato tenuto dal Ministero della giustizia, denominato "Registro delle PA" e previsto dall'articolo 16, comma 12, del DL 179/2012. 29
-[^4]: [CAD, art. 3-bis, comma 01](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art3bis).
-[^5]: [CAD, art. 3-bis, comma 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art3bis).
+[^1]: [CAD art. 3-bis. comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig~art3bis).
+[^2]: CAD [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig~art6bis).
+[^3]: [CAD Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig~art6ter). Inoltre, in materia di giustizia digitale, al fine di agevolare la notificazione alle pubbliche amministrazioni degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale è stata prevista la possibilità di utilizzare domicilio digitale indicato in IPA, qualora questo non sia stato indicato nel registro dedicato tenuto dal Ministero della giustizia, denominato "Registro delle PA" e previsto dall'[articolo 16, comma 12, del DL 179/2012](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179!vig~art16).
+[^4]: [CAD, art. 3-bis, comma 01](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig~art3bis).
+[^5]: [CAD, art. 3-bis, comma 1-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig~art3bis).
 
 
 Quando i soggetti che non sono obbligati ad eleggere il domicilio digitale volontariamente lo eleggono iscrivendosi nell'apposito Indice[^6] , si produce l'effetto di "obbligare" le pubbliche amministrazioni, ad effettuare nei loro confronti le comunicazioni in modalità digitale.
@@ -96,7 +96,7 @@ propria famiglia, dal proprio computer senza bisogno di recarsi allo sportello:
 - Anagrafico di Unione Civile
 - di Contratto di Convivenza
 
-[^6]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig=2020-11-04~art6quater). Linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese (<https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2021/09/20/domicilio-digitale-pubblicate-linee-guida>).
+[^6]: [Decreto Legislativo 7 marzo 2005, n.82 s.m.i., art. 6-quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82%7Eart6bis!vig~art6quater). Linee guida dell'Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all'iscrizione in albi, elenchi o registri professionali o nel registro delle imprese (<https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2021/09/20/domicilio-digitale-pubblicate-linee-guida>).
 
 Per i certificati digitali non si dovrà pagare il bollo e saranno quindi gratuiti (e disponibili in modalità multilingua per i comuni con plurilinguismo). Potranno essere rilasciati anche in forma contestuale (ad esempio cittadinanza, esistenza in vita e residenza potranno essere richiesti in un unico certificato).
 
