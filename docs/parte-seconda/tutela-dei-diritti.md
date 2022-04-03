@@ -35,6 +35,6 @@ Per problematiche relative alla "Dichiarazione di accessibilità" prevista dalla
 
 !!! attention "Attenzione"
 
-    **Per tale funzione non va quindi utilizzata la modalità prevista per il Percorso A "Invia una segnalazione al difensore civico per il digitale".**
+    **Per tale funzione non va quindi utilizzata la modalità prevista per il Percorso A, "Invia una segnalazione al difensore civico per il digitale".**
 
 ℹ️ <https://www.agid.gov.it/it/agenzia/difensore-civico-il- digitale/dichiarazioni-accessibilita>
