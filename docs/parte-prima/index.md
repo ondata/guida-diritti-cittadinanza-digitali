@@ -1,5 +1,5 @@
 ---
-title: Cosa è la cittadinanza digitale
+title: La cittadinanza digitale
 hide: toc
 ---
 

@@ -51,7 +51,7 @@ nav:
     - Guida:
       - presentazione.md
       - Parte I – La cittadinanza digitale:
-        - Cosa è: parte-prima/cosa.md
+        - parte-prima/index.md
         - I vantaggi: parte-prima/vantaggi.md
         - Quali diritti: parte-prima/quali-diritti.md
         - A chi rivolgersi per la tutela dei diritti di cittadinanza digitali : parte-prima/a-chi-rivolgersi.md
@@ -60,6 +60,7 @@ nav:
         - Uso delle tecnologie: parte-seconda/uso-delle-tecnologie.md
         - Accessibilità: parte-seconda/accessibilita.md
         - Identità digitale: parte-seconda/identita-digitale.md
+        - Istanza e dichiarazione telematica: parte-seconda/istanza-dichiarazione-telematica.md
         - Domicilio digitale e comunicazioni elettroniche: parte-seconda/domicilio-digitale-e-comunicazioni-elettroniche.md
         - Pagamenti con modalità informatiche: parte-seconda/pagamenti-con-modalita-informatiche.md
         - Tutela dei diritti, il Difensore civico per il digitale: parte-seconda/tutela-dei-diritti.md
