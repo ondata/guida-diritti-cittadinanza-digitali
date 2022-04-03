@@ -1,4 +1,4 @@
-# Guida dei diritti di cittadinanza digitali¶
+# Guida dei diritti di cittadinanza digitali
 
 Il **15 marzo 2022** è [stata pubblicata](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2022/03/16/online-guida-diritti-cittadinanza-digitali) dall'Agenzia per l'Italia digitale (AgID) la **Guida dei diritti di cittadinanza digitali**.
 
