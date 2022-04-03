@@ -32,6 +32,9 @@ Qualora il Difensore ritenga le segnalazioni non manifestamente infondate le tra
 
 Per problematiche relative alla "Dichiarazione di accessibilità" prevista dalla [Legge n.4/2004, l'art.3 quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig~art3quater), comma 2, lett. c) prevede che l'utente, **esclusivamente tramite l'apposito link presente sul sito del soggetto erogatore** (ad esempio pubblica amministrazione, ente pubblico economico, ecc.), possa segnalare al DCD eventuali risposte ritenute insoddisfacenti o mancate risposte da parte dei soggetti erogatori. Al riguardo il DCD decide disponendo eventuali misure correttive e informando l'Agenzia per l'Italia digitale ([art.3-quinquies](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig~art3quinquies) della legge già citata).
 
-**Per tale funzione non va quindi utilizzata la modalità prevista per il Percorso A "Invia una segnalazione al difensore civico per il digitale".**
+
+!!! attention "Attenzione"
+
+    **Per tale funzione non va quindi utilizzata la modalità prevista per il Percorso A "Invia una segnalazione al difensore civico per il digitale".**
 
 ℹ️ <https://www.agid.gov.it/it/agenzia/difensore-civico-il- digitale/dichiarazioni-accessibilita>
