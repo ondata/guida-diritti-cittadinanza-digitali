@@ -5,9 +5,10 @@ hide: toc
 
 # Presentazione
 
-!!! info "Note sul documento originale"
+!!! info "Nota bene"
 
-    La redazione della "Guida dei diritti di cittadinanza digitali", di cui abbiamo creato qui la versione HTML, è stata curata dall'[**Agenzia per l'Italia digitale**](https://www.agid.gov.it/) (AgID) - **Ufficio del Difensore civico per il digitale** (Massimo Macchia, Viviana De Paola, Raffaele Montanaro, Simone Rovelli, Maria Antonietta Ventriglia).
+    La redazione della "Guida dei diritti di cittadinanza digitali", di cui abbiamo creato qui la versione HTML, è stata curata dall'[**Agenzia per l'Italia digitale**](https://www.agid.gov.it/) (AgID) - **Ufficio del Difensore civico per il digitale** (Massimo Macchia, Viviana De Paola, Raffaele Montanaro, Simone Rovelli, Maria Antonietta Ventriglia).<br>
+    In queste versione HTML abbiamo aggiunto soltanto alcuni *hyperlink* e formattato in grassetto alcune parole.
 
 
 _Cosa vuol dire essere **cittadini digitali**?_
