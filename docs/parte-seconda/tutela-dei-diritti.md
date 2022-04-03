@@ -16,7 +16,7 @@ Il DCD, figura prevista in precedenza presso ogni amministrazione e dal 2018 ist
 
 ## Percorso per la Funzione A
 
-È possibile inviare una segnalazione al DCD compilando l'apposito form presente sul sito istituzionale di AgID.
+È possibile inviare una segnalazione al DCD compilando l'[**apposito form**](https://www.agid.gov.it/it/form/difensore-civico-digitale) presente sul sito istituzionale di AgID.
 
 A tal fine occorre:
 
@@ -25,14 +25,13 @@ A tal fine occorre:
 
 Qualora il Difensore ritenga le segnalazioni non manifestamente infondate le trasmette al Direttore Generale per l'attività di vigilanza, verifica, controllo e monitoraggio dell'AgID che potrà applicare sanzioni pecuniarie alle amministrazioni che violino le regole previste dalla normativa in materia ICT ([art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art17) comma 1 quater e [art. 18 bis CAD](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art18bis), così come modificato dall'[art. 41 del D.L. 77/2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-31;77!vig~art41), vedi [paragrafo attori della governance del digitale](attori-della-governance-del-digitale.md)).
 
-<https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale>
+ℹ️ <https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale>
 
 
 ## Percorso per la Funzione B
 
 Per problematiche relative alla "Dichiarazione di accessibilità" prevista dalla [Legge n.4/2004, l'art.3 quater](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig~art3quater), comma 2, lett. c) prevede che l'utente, **esclusivamente tramite l'apposito link presente sul sito del soggetto erogatore** (ad esempio pubblica amministrazione, ente pubblico economico, ecc.), possa segnalare al DCD eventuali risposte ritenute insoddisfacenti o mancate risposte da parte dei soggetti erogatori. Al riguardo il DCD decide disponendo eventuali misure correttive e informando l'Agenzia per l'Italia digitale ([art.3-quinquies](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;4!vig~art3quinquies) della legge già citata).
 
-<https://www.agid.gov.it/it/agenzia/difensore-civico-il- digitale/dichiarazioni-accessibilita>
+**Per tale funzione non va quindi utilizzata la modalità prevista per il Percorso A "Invia una segnalazione al difensore civico per il digitale".**
 
-**Per tale funzione non va quindi utilizzata la modalità prevista per il Percorso A "Invia una
-segnalazione al difensore civico per il digitale".**
+ℹ️ <https://www.agid.gov.it/it/agenzia/difensore-civico-il- digitale/dichiarazioni-accessibilita>
