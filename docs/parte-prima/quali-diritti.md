@@ -7,14 +7,9 @@ hide: toc
 
 I diritti di cittadinanza digitali risultano concreti quando chiunque può:
 
-- accedere ai servizi online in maniera semplice, sicura e veloce (diritto all'uso delle
-    tecnologie, Identità digitale, accessibilità di siti web e applicazioni mobili);
-- acquisire rapidamente informazioni affidabili e/o esprimere chiaramente la propria esigenza,
-    instaurando una comunicazione rapida e con pieno valore giuridico con la pubblica
-    amministrazione alla quale ci si rivolge per un procedimento o un servizio (istanze
-    telematiche, comunicazioni elettroniche, domicilio digitale);
-- beneficiare di modalità di pagamento digitali che assicurino maggiore trasparenza e
-    sicurezza (pagamenti con modalità informatiche).
+- accedere ai servizi online in maniera semplice, sicura e veloce (diritto all'[uso delle tecnologie](../parte-seconda/uso-delle-tecnologie.md), [Identità digitale](../parte-seconda/identita-digitale.md), [accessibilità](../parte-seconda/accessibilita.md) di siti web e applicazioni mobili);
+- acquisire rapidamente informazioni affidabili e/o esprimere chiaramente la propria esigenza, instaurando una comunicazione rapida e con pieno valore giuridico con la pubblica amministrazione alla quale ci si rivolge per un procedimento o un servizio ([istanze telematiche](../parte-seconda/istanza-dichiarazione-telematica.md), [comunicazioni elettroniche, domicilio digitale](../parte-seconda/domicilio-digitale-e-comunicazioni-elettroniche.md));
+- beneficiare di modalità di pagamento digitali che assicurino maggiore trasparenza e sicurezza ([pagamenti con modalità informatiche](../parte-seconda/pagamenti-con-modalita-informatiche.md)).
 
 ## Diritto all'uso delle tecnologie
 
