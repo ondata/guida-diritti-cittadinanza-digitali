@@ -12,7 +12,7 @@ Il DCD, figura prevista in precedenza presso ogni amministrazione e dal 2018 ist
 - **Funzione A** raccoglie le segnalazioni relative alle presunte violazioni del CAD o di ogni altra norma in materia di digitalizzazione ed innovazione, a garanzia dei diritti di cittadinanza digitale dei cittadini e delle imprese ([art.17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art17), comma 1 quater del CAD);
 - **Funzione B** decide in merito alla corretta attuazione della legge sulla accessibilità agli strumenti informatici per le persone con disabilità in caso di contestazione sulla dichiarazione di accessibilità o di esito insoddisfacente del monitoraggio, disponendo eventuali misure correttive anche in caso di reclami di utenti relativamente a dichiarazioni di accessibilità ([art.3-quinquies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-01-09;004!vig~art3quinquies) della legge n.4/2004).
 
-**A seconda della funzione che il DCD è chiamato a svolgere (Funzione A o Funzione B) sono previsti due percorsi differenti di seguito richiamati.**
+**A seconda della funzione che il DCD è chiamato a svolgere ([Funzione A](tutela-dei-diritti.md#percorso-per-la-funzione-a) o [Funzione B](tutela-dei-diritti.md#percorso-per-la-funzione-b)) sono previsti due percorsi differenti di seguito richiamati.**
 
 ## Percorso per la Funzione A
 
