@@ -13,6 +13,8 @@ hide: toc
 
 _Cosa vuol dire essere **cittadini digitali**?_ _Come ottenere l'**identità digitale**?_ _Come **interagire** telematicamente con la **Pubblica Amministrazione**?_
 
+---
+
 **Accesso alle tecnologie**, **identità digitale**, diritto di **prendere visione** e di **estrarre** copia di **dati**,
 **documenti** e **servizi digitali** della Pubblica amministrazione costituiscono **temi di grande rilevanza**
 nella nostra società.
