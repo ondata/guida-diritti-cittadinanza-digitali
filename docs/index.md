@@ -9,7 +9,7 @@ hide:
 
 Il **15 marzo 2022** è [stata **pubblicata**](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2022/03/16/online-guida-diritti-cittadinanza-digitali) dall'Agenzia per l'Italia digitale (**AgID**) la **Guida dei diritti di cittadinanza digitali**.
 
-È un documento previsto dal "[**Codice dell'Amministrazione Digitale**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig)", che illustra cos'è la **cittadinanza digitale** e quali sono i diritti digitali di cittadini e imprese.
+È un documento previsto dal "[**Codice dell'Amministrazione Digitale**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art17)" (articolo 17, comma 1-quinquies), che illustra cos'è la **cittadinanza digitale** e quali sono i diritti digitali di cittadini e imprese.
 
 Come è riportato sul sito di AgID, i **diritti di cittadinanza digitali** risultano **concreti quando** chiunque può:
 
