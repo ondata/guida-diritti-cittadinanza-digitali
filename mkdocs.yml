@@ -7,7 +7,7 @@ repo_url: https://github.com/ondata/guida-diritti-cittadinanza-digitali
 repo_name: guida-diritti-digitali
 edit_uri: edit/main/docs/
 
-copyright: '<a href="https://twitter.com/ondatait" target="_blank">associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+copyright: '<a href="https://ondata.it/" target="_blank">associazione onData</a> | licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
 
 theme:
   name: material
