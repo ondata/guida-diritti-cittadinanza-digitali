@@ -23,6 +23,6 @@ La **cittadinanza digitale** si fonda sull'insieme dei diritti che, con il suppo
 
 La **Guida dei diritti di cittadinanza digitale**, redatta dall'[**Agenzia per l'Italia Digitale**](https://www.agid.gov.it/) con un linguaggio semplice e immediato, ha l'obiettivo di **informare il cittadino** su **strumenti** e **servizi disponibili** e fornire una panoramica sulle norme che regolano e tutelano tali diritti.
 
-La [**prima parte**](parte-prima/cosa.md) della guida introduce il **concetto** della **cittadinanza digitale** e offre una visione dei diritti, illustrandone i vantaggi nell'interazione con la Pubblica Amministrazione.
+La [**prima parte**](parte-prima/index.md) della guida introduce il **concetto** della **cittadinanza digitale** e offre una visione dei diritti, illustrandone i vantaggi nell'interazione con la Pubblica Amministrazione.
 
 La [**seconda parte**](parte-seconda/index.md) descrive più dettagliatamente i singoli **diritti** di **cittadinanza digitale** e le modalità per tutelarli. Inoltre presenta il **lavoro** svolto dal **Difensore civico per il digitale** e i **compiti istituzionali** dei principali attori della **governance del digitale** in Italia.
