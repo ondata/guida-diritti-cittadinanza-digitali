@@ -14,5 +14,12 @@ Per tutelare tali diritti, oltre al Giudice, è possibile rivolgersi anche al [D
     internet o ad un'applicazione mobile dell'Amministrazione e, qualora fondato, invitare
     l'Amministrazione al rispetto delle norme sull'accessibilità.
 
+
+!!! info "Regolamento segnalazioni presentate al Difensore digitale"
+
+    **N.d.R.**: per comodità mettiamo qui [**il link a una copia del Regolamento**](../risorse/regolamento_dcd_17_comma_1-quater_cad.pdf) recante le procedure finalizzate allo svolgimento dei compiti previsti dall'articolo 17, comma 1-quater, del CAD 4.
+
+
+
 [^1]: Regolamento recante le procedure finalizzate allo svolgimento dei compiti previsti dall'articolo 17, comma 1-quater, del CAD 4 pubblicato in [GU Serie Generale n.295 del 13-12-2021](http://www.gazzettaufficiale.it/eli/id/2021/12/13/21A07299/sg).
 [^2]: Art. [18 bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art18bis), CAD introdotto dall'art. 41 D.L.77/2021 convertito in L. 108/2021.
