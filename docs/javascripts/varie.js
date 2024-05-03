@@ -1,16 +1,27 @@
-// to open external links in new window
-function targetBlank() {
-  // remove subdomain of current site's url and setup regex
-  var internal = location.host.replace("www.", "");
-      internal = new RegExp(internal, "i");
+// Funzione per aprire in una nuova scheda tutti i link esterni e i link ai file PDF
+function targetBlankForExternalAndPDFs() {
+  // Ottieni l'host del sito corrente senza sottodomini
+  var internal = location.hostname.replace("www.", "");
+  var internalRegex = new RegExp(internal, "i");
 
-  var a = document.getElementsByTagName('a'); // then, grab every link on the page
-  for (var i = 0; i < a.length; i++) {
-    var href = a[i].host; // set the host of each link
-    if( !internal.test(href) ) { // make sure the href doesn't contain current site's host
-      a[i].setAttribute('target', '_blank'); // if it doesn't, set attributes
+  // Aggiungi un'espressione regolare per riconoscere anche gli indirizzi IP locali
+  var localHost = /localhost|127\.0\.0\.1/;
+
+  // Prendi tutti i link presenti nella pagina
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    var href = links[i].href; // Ottieni l'URL di ogni link
+
+    // Controlla se l'URL è considerato interno o esterno, e se punta a un file PDF
+    if ((internalRegex.test(links[i].hostname) || localHost.test(links[i].hostname)) && href.endsWith('.pdf')) {
+      // Se il link è interno (incluso localhost o IP locale) e punta a un PDF, apri in una nuova scheda
+      links[i].setAttribute('target', '_blank');
+    } else if (!internalRegex.test(links[i].hostname) && !localHost.test(links[i].hostname) || href.endsWith('.pdf')) {
+      // Se il link è esterno o punta a un PDF, apri in una nuova scheda
+      links[i].setAttribute('target', '_blank');
     }
   }
 };
 
-targetBlank();
+// Esegui la funzione per applicare la regola ai link
+targetBlankForExternalAndPDFs();
